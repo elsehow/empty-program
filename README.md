@@ -1,4 +1,6 @@
-# empty-module
+# empty-program
+
+an empty program in typescript, with jest for tests
 
 # setup
 
